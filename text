@@ -1,0 +1,9 @@
+description:"mist"
+<th style="width:22%;">humidity</th>
+<th style="width:22%;">location</th>
+<th style="width:22%;">temperature</th>
+<th style="width:22%;">wind_speed</th>
+
+<th style="width: 22%;">Free</th>
+<th style="width: 22%;">Pro</th>
+<th style="width: 22%;">Enterprise</th>
